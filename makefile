@@ -34,7 +34,7 @@ all: clean $(TARGET)
 
 test: $(TARGET)
 	./$(TARGET)
-	
+
 library: $(OBJS)
 	ar -r lib$(TARGET).a $(OBJS)
 
