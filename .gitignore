@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# BMP file
+*.bmp
+
+# OS X Systemfile
+.DS_Store
