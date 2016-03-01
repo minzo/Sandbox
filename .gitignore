@@ -28,8 +28,8 @@
 *.app
 miImage
 
-# BMP file
-*.bmp
-
-# OS X Systemfile
+# optional
 .DS_Store
+obj/*
+*.d
+*.bmp
