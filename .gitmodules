@@ -1,0 +1,3 @@
+[submodule "miImage"]
+	path = miImage
+	url = https://github.com/minzo/miImage.git
