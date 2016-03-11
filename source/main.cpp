@@ -5,7 +5,7 @@
 
 int main(int argc, char* argv[]){
 
-    printf("Sandbox\n");
+    printf("sandbox\n");
 
     return 0;
 }
